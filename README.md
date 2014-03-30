@@ -1,7 +1,14 @@
-Bulk Minifier
+Introduction
 ===
 
 Bulk minifier is a static minifier script for use with static files (CSS, JS) so that minification can be automated during a build. Uses Google's Closure Compiler for minifying files.
+
+Requirements
+--
+* LibYAML
+* PECL
+* Java Runtime Environment
+* Google Closure compiler (bundled)
 
 Installation
 --
