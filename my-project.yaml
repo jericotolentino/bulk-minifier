@@ -1,0 +1,6 @@
+app: My Awesome Project
+path: .
+
+files:
+    - input: /javascript.js
+      output: /javascript.min.js
