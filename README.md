@@ -54,7 +54,7 @@ files:
 
 Once you're done, just save it using a filename without spaces and with a .yaml extension (e.g., my-project.yaml).
 
-To start minifying, just run the following command:
+To start minifying, just run the following command (third parameter is your file without the .yaml extension):
 
 ```sh
 php minify.php my-project
