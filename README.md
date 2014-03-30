@@ -1,7 +1,7 @@
 Introduction
 ===
 
-Bulk minifier is a static minifier script for use with static files (CSS, JS) so that minification can be automated during a build. Uses Google's Closure Compiler for minifying files.
+Bulk minifier is a JavaScript minifier script for use with client-side scripts so that minification can be automated (or sped up) during a build. Uses Google's Closure Compiler for minifying files.
 
 Requirements
 --
